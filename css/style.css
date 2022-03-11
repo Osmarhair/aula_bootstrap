@@ -1,0 +1,43 @@
+.navbar {
+    background-color: red;
+    margin-bottom: none;
+    padding-bottom: none;
+}
+
+#quemsomos {
+    text-align: center;
+    background-color: aqua;
+    font-size: 25pt;
+    margin-top: none;
+    padding: none;
+}
+
+.navbar-nav {
+    padding-bottom: none;
+    margin: 0;
+}
+
+h3{
+    margin: 0%;
+
+}
+
+#time {
+    border-radius: 100pt;    
+}
+
+#parceiros {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+#osmar {
+    text-align: center;
+    font-size: 20pt;
+    background-color: darkgrey;
+    padding: 0;
+}
+p {
+    margin: 0;
+}
